@@ -1,3 +1,7 @@
+Update v0.6.8 InDev:
+- Better perfomance
+- Small improvements in the engines core
+
 Update v0.6.7:
 - Fixed some problems with the renderer
 - Changed some things in the Movement system
