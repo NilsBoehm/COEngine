@@ -1,0 +1,3 @@
+You found a bug/erro or you have questions?
+Just write a new "issue" under the Issues tab of the guthub page of the COEngine.
+
