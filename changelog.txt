@@ -1,3 +1,12 @@
+Update v0.6.9 InDev:
+- Added a "Log"- Tool
+- Updates in the engine core (System):
+1. Fixed some problems with the engines core
+2. Added some new files to the engines core 
+- Updated (finaly) the movement system:
+1. Fixes some bugs, etc
+
+
 Update v0.6.8 InDev:
 - Better perfomance
 - Small improvements in the engines core
